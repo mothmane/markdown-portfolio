@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* :computer: | Beautiful Softwares 
+* :camera: | Photography
+* :surfer: | Surf 
+* :airplane: | Traveling
